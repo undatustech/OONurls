@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="57" viewBox="0 0 142 57">
+  <g id="Grupo_2" data-name="Grupo 2" transform="translate(-60 -38)">
+    <text id="N" transform="translate(103 80)" fill="#f78f19" font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">N</tspan></text>
+    <text id="URL" transform="translate(130 81)" fill="#3b4848" font-size="40" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">URL</tspan></text>
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(30 -45)">
+      <text id="O" transform="translate(44 126)" fill="#f78f19" font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+      <text id="O-2" data-name="O" transform="translate(30 126)" fill="#f5a03f" font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+      <path id="Caminho_12" data-name="Caminho 12" d="M266.745,799.938a8.7,8.7,0,0,0,1.889,3.512,6.149,6.149,0,0,0,3.28,1.409,14.492,14.492,0,0,1-2.229,2.689,15.581,15.581,0,0,1-2.94,2.025,12.853,12.853,0,0,1-2.888-1.918,14.469,14.469,0,0,1-2.259-2.8,9.038,9.038,0,0,0,2.881-1.792A13.784,13.784,0,0,0,266.745,799.938Z" transform="translate(-214 -685)" fill="#f78f19"/>
+    </g>
+  </g>
+</svg>
